@@ -39,7 +39,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 450px;
+  height: 420px;
   margin-bottom: 60px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -53,7 +53,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 450px;
+  height: 420px;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#898e89+0,989f99+12,989f99+40,989f99+40,323230+100 */
   background: #898e89; /* Old browsers */
   background: -moz-linear-gradient(45deg,  #898e89 0%, #989f99 12%, #989f99 40%, #989f99 40%, #323230 100%); /* FF3.6-15 */
